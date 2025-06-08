@@ -17,6 +17,14 @@ Projeto em **React + TypeScript + Tailwind** que mostra os números do último s
 - Vite
 - API: [https://api.guidi.dev.br](https://api.guidi.dev.br)
 
+## 🖼 Visualização
+
+### Desktop  
+![Versão Desktop](images/desktop.png)
+
+### Mobile  
+![Versão Mobile](images/mobile.png)
+
 ## ▶️ Como rodar
 
 ```bash
