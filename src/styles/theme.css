@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+:root {
+  --background: #EFEFEF;
+
+  --MEGA-SENA: #6befa3;
+  --QUINA: #8666ef;
+  --LOTOFACIL: #dd7ac6;
+  --LOTOMANIA: #ffab64;
+  --TIMEMANIA: #ffab64;
+  --DIA-DE-SORTE: #dd7ac6;
+
+
+  --text-primary: #FFFFFF;
+  --text-dark: #333333;
+  --text-darkness: #000000;
+
+}
