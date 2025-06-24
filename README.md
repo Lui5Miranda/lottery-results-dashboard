@@ -28,7 +28,7 @@ Projeto em **React + TypeScript + Tailwind** que mostra os números do último s
 ## ▶️ Como rodar
 
 ```bash
-git clone https://github.com/Lui5Miranda/loterias.git
+git clone https://github.com/Lui5Miranda/lottery-results-dashboard
 cd loterias
 npm install
 npm run dev
